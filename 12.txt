@@ -1,2 +1,2 @@
-another test og git 
-
+another test of git 
+added another line ehich is this very line itself
